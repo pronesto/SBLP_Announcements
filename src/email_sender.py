@@ -8,6 +8,7 @@ import csv
 import smtplib
 import getpass
 import argparse
+import time
 from email.message import EmailMessage
 
 # --- I/O & Template Functions ---
@@ -69,6 +70,8 @@ def send_batch(messages, host, user, password, dry_run=False):
                 for msg in messages:
                     server.send_message(msg)
                     print(f"Sent to: {msg['To']}")
+                    # Wait 2 seconds between emails to respect server limits
+                    time.sleep(2)
         except smtplib.SMTPAuthenticationError:
             print("Invalid password", file=sys.stderr)
             sys.exit(1)
