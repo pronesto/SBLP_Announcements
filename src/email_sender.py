@@ -1,6 +1,9 @@
 """
 This script reads a CSV file plus a text template, filters for Brazilian 
 authors, generates personalized emails and send them over.
+
+Author: Fernando Magno Quintao Pereira
+Date: December 17th, 2026
 """
 
 import sys

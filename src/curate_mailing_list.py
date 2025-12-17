@@ -1,3 +1,13 @@
+"""
+This script reads a CSV file with two columns: Nome and Email. Then, it:
+    0. Remove duplicates, using emails as keys
+    1. Splits Nome into FirstName and Surname
+    2. Adds a Country column, with the last two characters from the email
+
+Author: Fernando Magno Quintao Pereira
+Date: December 17th, 2026
+"""
+
 import csv
 import sys
 
