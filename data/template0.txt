@@ -1,0 +1,31 @@
+Olá <FirstName>,
+
+Estou entrando em contato para avisar que a chamada de
+trabalhos do Simpósio Brasileiro de Linguagens de
+Programação (SBLP) 2026 está disponível no link:
+
+https://cbsoft.sbc.org.br/2026/pt/symposiums/sblp/call/
+
+As datas importantes para a submissão são:
+* Envio de resumos: 20 de maio de 2026
+* Envio de artigos: 01 de junho de 2026
+* Notificação: 15 de julho de 2026
+* Versão final: 01 de agosto de 2026
+
+A Comissão Especial de Linguagens de Programação (CELP) está
+convidando quem já submeteu artigos para continuar
+participando de nossa comunidade. Nossa intenção é fortalecer
+esta comunidade, agregando cada vez mais pesquisadores.
+
+O SBLP, em 2026, ocorrerá em São Paulo, no Instituto de
+Matemática e  Estatística (IME-USP), como parte do CBSoft,
+provavelmente nos dias 10 e 11 de setembro de 2026.
+
+Em nome da CELP, esperamos contar com a sua submissão para
+esta próxima edição!
+
+Fernando Pereira
+
+Ps.: Esta é uma mensagem automática enviada para quem já
+submeteu artigos para o SBLP. Caso tenha dúvidas, fique à
+vontade para me escrever em fernando@dcc.ufmg.br.
